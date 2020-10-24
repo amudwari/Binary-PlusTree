@@ -1,0 +1,13 @@
+1029East Otis                 MA  Berkshire                     42.1909 -73.0517
+  501Holtsville                NY  Suffolk                       40.8154 -73.0451
+  544Holtsville                NY  Suffolk                       40.8154 -73.0451
+ 1001Agawam                    MA  Hampden                       42.0702 -72.6227
+ 1002Amherst                   MA  Hampshire                     42.3671 -72.4646
+ 1003Amherst                   MA  Hampshire                     42.3919 -72.5248
+ 1004Amherst                   MA  Hampshire                     42.3845 -72.5132
+ 1005Barre                     MA  Worcester                     42.4097 -72.1084
+ 1007Belchertown               MA  Hampshire                     42.2751  -72.411
+ 1008Blandford                 MA  Hampden                       42.1829 -72.9361
+ 1009Bondsville                MA  Hampden                       42.2061 -72.3405
+ 1010Brimfield                 MA  Hampden                       42.1165 -72.1885
+ 1011Chester                   MA  Hampden                       42.2794 -72.9888
